@@ -58,22 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Ben Langmead"
+  avatar : "/assets/images/IMG_0867_square_sm.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.langmead-lab.org"
+    - label: "Personal LinkedIn"
+      icon: "fas fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/benjaminlangmead/"
+    - label: "InOrder LinkedIn"
+      icon: "fas fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/company/inorder-labs-llc/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/BenLangmead"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/BenLangmead"
 
 footer:
   links:
