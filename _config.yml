@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: InOrder Labs LLC
+title:
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: BenLangmead
 github_username: BenLangmead
 minimal_mistakes_skin: dark
-logo: "/assets/images/InOrderTall.png"
+logo: "/assets/images/InOrderWide.png"
 search: true
 
 # Build settings
@@ -61,16 +61,16 @@ plugins:
 author:
   name   : "Ben Langmead"
   avatar : "/assets/images/IMG_0867_square_sm.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Expert services & consulting in Computational Genomics, Computational Biology, Computer Science, Biotechnology and Software"
   links:
-    - label: "Website"
+    - label: "Research Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.langmead-lab.org"
     - label: "Personal LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fa-brands fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/benjaminlangmead/"
     - label: "InOrder LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fa-brands fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/company/inorder-labs-llc/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
