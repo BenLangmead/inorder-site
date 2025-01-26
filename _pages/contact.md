@@ -8,6 +8,11 @@ classes: wide
 
 <div class="contact-form">
   <p>
+    We are located at: <br/><br/>
+    5835 York Rd #1159 <br/>
+    Baltimore, MD 21212
+  </p>
+  <p>
     Interested in working with InOrder?  Please send us a message and we will be in touch shortly.
   </p>
   <form action="https://formspree.io/f/xanqqdqk" method="POST">
