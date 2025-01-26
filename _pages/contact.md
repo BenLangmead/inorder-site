@@ -11,7 +11,7 @@ classes: wide
   <p>
     Interested in working with InOrder?  Please send us a message and we will be in touch shortly.
   </p>
-  <form action="https://formspree.io/f/your-form-id" method="POST">
+  <form action="https://formspree.io/f/xanqqdqk" method="POST">
     <div class="form-group">
       <label for="name">Name:</label>
       <input type="text" id="name" name="name" required>
