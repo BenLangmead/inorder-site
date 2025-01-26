@@ -7,7 +7,6 @@ classes: wide
 ---
 
 <div class="contact-form">
-  <h2>Contact Us</h2>
   <p>
     Interested in working with InOrder?  Please send us a message and we will be in touch shortly.
   </p>
